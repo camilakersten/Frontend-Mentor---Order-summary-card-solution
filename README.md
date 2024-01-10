@@ -16,8 +16,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/camilakersten/QR-Code-component-solution-using-HTML-and-CSS---FrontEnd-Mentor)
-- Live Site URL: [Live site](https://camilakersten.github.io/QR-Code-component-solution-using-HTML-and-CSS---FrontEnd-Mentor/)
+- Solution URL: [GitHub Repository](https://github.com/camilakersten/Frontend-Mentor---Order-summary-card-solution/tree/main)
+- Live Site URL: [Live site](https://camilakersten.github.io/Frontend-Mentor---Order-summary-card-solution/)
 
 ### Built with
 
