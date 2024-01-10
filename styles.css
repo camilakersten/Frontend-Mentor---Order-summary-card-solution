@@ -43,7 +43,7 @@ main {
 
 .title h1 {
     font-weight: 900;
-    font-size: 24px;
+    font-size: 20px;
     color: #1f2e55;
     margin-top: 40px;
 }
@@ -92,6 +92,7 @@ main {
 }
 
 #change, #change:visited {
+    font-size: 14px;
     color: #382ae1;
     text-decoration: underline;
     font-weight: 700;
