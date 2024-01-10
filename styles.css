@@ -12,7 +12,7 @@ body {
     background-color: #e0e7ff;
 }
 
-media (max-width: 768px) {
+@media (max-width: 768px) {
     body {
         background-image: url(./images/pattern-background-mobile.svg);
     }
